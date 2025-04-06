@@ -1,5 +1,7 @@
 # Software Process
 
+> This document is pulled from the UGRDV Documentation pages, located at https://ugrdv.gitlab.io/docs/, for purposes of public access.
+
 ## Sub-teams
 
 Based on the software architecture, Driverless is split into several sub-teams depending on the current state of the codebase. Currently, we have:
